@@ -1,2 +1,2 @@
-My homework on "Introduction to Machine Learning and Data Analysis". I use python (numpy, pandas, sklearn, nltk).
+My homework on "Introduction to Machine Learning and Data Analysis". I used python (numpy, pandas, sklearn, nltk).
 
