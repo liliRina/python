@@ -15,7 +15,7 @@ from bot import *
 import sys
 
 
-def par(owner_id=-172053584, person_id=65667553):
+def par(owner_id, person_id):
     login = login
     password = password
     session = vk_api.VkApi(login, password)
